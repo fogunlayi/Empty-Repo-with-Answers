@@ -1,9 +1,3 @@
-package edu.cscc;
-
-public class Main {
-
-    public static void main(String[] args)
-}
 //*Exercise 5: Create a repo on GitHub that contains a markdown file that answers these questions:
 
 //How do you see the files changed within each commit from git log?
