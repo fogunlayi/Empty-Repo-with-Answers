@@ -4,7 +4,7 @@
 //Answer: changed files can be revealed by typing $ git log--stats
 
 //How do you see the contents of what changed within each file from the git log?
-//Answer: Change contents from each filed can be revealed by typing $ git log--Patch
+//Answer: Change contents from each file can be revealed by typing $ git log--Patch
 
 //What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
 //Answer:HEAD does reference to the last commit in the currently check-out branch and also revision changes to the point tip
